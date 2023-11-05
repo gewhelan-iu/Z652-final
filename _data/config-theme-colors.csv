@@ -1,9 +1,9 @@
 color_class,color
 primary,#E6C240
 secondary,#565166
-success,
-info,
-warning,
-danger,
-light,
-dark,
+success,#E6C240
+info,#565166
+warning,#E6C240
+danger,#565166
+light,#E6C240
+dark,#565166
