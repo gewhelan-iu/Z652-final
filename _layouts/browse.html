@@ -39,3 +39,4 @@ custom-foot: js/browse-js.html
 </div>
 
 <div class="row" id="browseItems"></div>
+{% assign sort_options = site.data.config-browse | where_exp: 'i','i.sort_name != nil' %}
