@@ -21,7 +21,7 @@ mt_fountains_2,bm_fountains_2.png,multiple,Fountains Abbey,monogram of Marmaduke
 mt_fountains,bm_fountains.png,multiple,Fountains Abbey,Fountains Abbey ; Wonder of the North,Front view of the abbey ruins ; insignia of the National Trust.,54.12385,-1.58333,Yorkshire and the Humber,,,"black,silver",,
 mt_christ,bm_christ.png,multiple,"Christ Church, Oxford",Christ Church ; Oxford,Main entrance and tower of the church.,51.74998,-1.25579,South East,,,"blue,gold",,
 mt_caernarvon,bm_caernarvon.png,multiple,Caernarvon Castle,watch tower and Queen’s Gate ; Caernarvon Castle ; founded 1283 A.D. ; Eagle Tower,Watchtower and gatehouse of the castle ; Welsh dragon ; Castle keep and Eagle tower.,53.13925,-4.27685,Wales,,,"blue,gold",,
-mt_blenheim,bm_blenheim.png,multiple,Blenheim Palace,Blenheim Palace,Front facade of the palace.,51.84147,-1.36092,South East,,,"white,silver",,
+mt_blenheim,test1.png,multiple,Blenheim Palace,Blenheim Palace,Front facade of the palace.,51.84147,-1.36092,South East,,,"white,silver",,
 mt_baths,bm_baths.png,multiple,Roman Baths,Medusa ; Minerva ; centurion ; the Roman baths ; Bath ; England,Bath town coat of arms ; grotesque of Medusa ; bust of Minerva ; illustration of Roman centurion in armor.,51.38124,-2.35961,South West,,,"blue,gold",,
 mt_bathabbey,bm_bathabbey.png,multiple,Bath Abbey,Bath Abbey ; Abbey Church of St. Peter and St. Paul ; West Front,Nave and quire of the abbey ; front facade of the abbey.,51.38152,-2.35869,South West,,,"green,gold",,
 mt_bath,bm_bath.png,multiple,Bath,Abbey ; Roman baths ; Pulteney Bridge ; Royal Crescent ; Bath,Bath town coat of arms ; fully-colored view of the pool at the Roman baths ; fully-colored view of a bridge with three arches over the River Avon ; fully-colored view of the town-house facade of the Royal Crescent.,51.37881,-2.35938,South West,,,"green,gold",,
@@ -48,7 +48,7 @@ bm_fountains_2,bm_fountains_2.png,image/png,Fountains Abbey,,,,,,,,,,mt_fountain
 bm_fountains,bm_fountains.png,image/png,Fountains Abbey,,,,,,,,,,mt_fountains
 bm_christ,bm_christ.png,image/png,"Christ Church, Oxford",,,,,,,,,,mt_christ
 bm_caernarvon,bm_caernarvon.png,image/png,Caernarvon Castle,,,,,,,,,,mt_caernarvon
-bm_blenheim,bm_blenheim.png,image/png,Blenheim Palace,,,,,,,,,,mt_blenheim
+bm_blenheim,test1.png,image/png,Blenheim Palace,,,,,,,,,,mt_blenheim
 bm_baths,bm_baths.png,image/png,Roman Baths,,,,,,,,,,mt_baths
 bm_bathabbey,bm_bathabbey.png,image/png,Bath Abbey,,,,,,,,,,mt_bathabbey
 bm_bath,bm_bath.png,image/png,Bath,,,,,,,,,,mt_bath
