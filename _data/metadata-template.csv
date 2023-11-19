@@ -1,55 +1,55 @@
 objectid,filename,format,title,text,description,latitude,longitude,location,image,date,color,dimensions,parentid
-mt_westminster,,multiple,Westminster Cathedral,Westminster Cathedral,Christological monogram ; Tower and main entrance of the cathedral.,51.49585,-0.13943,London,,,"blue,gold",,
-mt_wells,,multiple,Wells Cathedral,the Clock ; the Chapter House ; Wells Cathedral,View of the cathedral from a distance with ducks on a lake in the foreground ; the cathedral’s astrological clock ; fanned vaults of the chapterhouse building.,51.21048,-2.64346,South West,,,"blue,gold",,
-mt_warwick,,multiple,Warwick Castle,Caesar’s Tower ; the great hall ; great curtain wall ; Warwick Castle,"Caesar's Tower, with the castle wall in the background and greenery in the foreground ; Large hall with a ribbed ceiling, a large painting, and suits of armor in ogive stands ; The castle's curtain wall, with the gatehouse on the left and Guy's Tower on the right.",52.27831,-1.58843,West Midlands,,,"blue,gold",,
-mt_war,,multiple,Imperial War Museum,IWM ; Imperial War Museum,Top profile of three Spitfire fighter airplanes.,51.58819,-0.16068,London,,,"black,silver",,
-mt_vikings,,multiple,Jorvik,"door jams from Hyllestad Church, Norway ; carved doorway Opdal Church, Norway ; stylized warrior Valsgade, Sweden ; viking kingdom silver penny, York",Elaborate medieval illustration of vikings fighting and talking ; Medieval illustration of a king standing over a harp ; Illustration of an armored warrior with spear and shield ; Coin with a raven in the center and viking runes around the edge.,53.95743,-1.0803,Yorkshire and the Humber,,,"black,silver",,
-mt_tower_2,,multiple,Tower of London,sigillum turris londini ; HM Royal Palace and Fortress of the Tower of London,Stylized illustration of the Tower.,51.69236,-0.15834,London,,,"blue,gold",,
-mt_tower,,multiple,Tower of London,historic royal palaces ; Tower of London,Fully-colored Yeoman of the Guard in uniform.,51.69236,-0.15834,London,,,"black,gold",,
-mt_tintern,,multiple,Tintern Abbey,Abaty Tyndyrn ; Tintern Abbey ; Cadw ; www.cadw.wales.gov.uk,Three-quarter view of the abbey ruins.,51.69698,-2.67707,Wales,,,"black,gold",,
-mt_sarum,,multiple,Old Sarum,Bishop Joceline 1184 ; Old Sarum,Medieval illustration of Bishop Joceline.,51.10162,-1.78475,South West,,,"red,gold",,
-mt_salisbury_2,,multiple,Salisbury Cathedral,Salisbury Cathedral,Portrait of Madonna and child ; View of the front facade and tower of the cathedral ; Stained glass window portraying Madonna and child.,51.06514,-1.7973,South West,,,"blue,silver",,
-mt_salisbury,,multiple,Salisbury,the Cathedral ; the Poultry Cross ; High Street Gate ; Salisbury ; Wiltshire,Distant view of Salisbury Cathedral and tower ; elevated market cross structure ; large medieval gatehouse across a street.,51.06911,-1.79461,South West,,,"red,gold",,
-mt_museum,,multiple,British Museum,the British Museum,Front facade of the museum.,51.51956,-0.12695,London,,,"blue,gold",,
-mt_michael,,multiple,St. Michael’s Mount,St. Michael’s Mount ; the National Trust ; Cornwall,"Small round island with a castle on top, smaller buildings at the foot of the hill nearer the viewer, and a causeway extending into the ocean ; insignia of the National Trust.",50.11741,-5.47673,South West,,,"blue,gold",,
-mt_lindisfarne,,multiple,Lindisfarne Castle,Lindisfarne Castle ; Northumberland ; the Ship Room ; the National Trust,"Insignia of the National Trust ; castle on top of a steep hill ; barrel-vaulted room with tables, chairs, and a fireplace.",55.66912,-1.78479,North East,,,"blue,gold",,
-mt_lincoln,,multiple,Lincoln Cathedral,the Chapter-House ; Lincoln Cathedral,Front facade of the cathedral ; Chapterhouse building ; rear view of the cathedral.,53.23436,-0.53594,East Midlands,,,"blue,gold",,
-mt_housesteads,,multiple,Housesteads Roman Fort,Emperor Hadrian ; Housesteads Roman Fort,Bust of the Roman Emperor Hadrian.,55.01343,-2.33031,North East,,,"green,gold",,
-mt_greenwich,,multiple,Greenwich,Greenwich ; Royal Naval College ; Flamsteed House ; the Queen’s House,"Circled view of the Cutty Sark, a three-masted sailing ship ; front facade of the Royal Naval College ; view of the observatory of John Flamsteed ; front facade of the Queen’s house.",51.49316,0.01003,London,,,"blue,gold",,
-mt_gallery,,multiple,National Gallery,the National Gallery ; London,Front facade of the National Gallery.,51.50911,-0.12827,London,,,"blue,gold",,
-mt_fountains_2,,multiple,Fountains Abbey,monogram of Marmaduke Huby Abbot of Fountains Abbey (1495-1526) ; Fountains Abbey,Personal monogram of Abbot Marmaduke Huby.,54.12385,-1.58333,Yorkshire and the Humber,,,"black,gold",,
-mt_fountains,,multiple,Fountains Abbey,Fountains Abbey ; Wonder of the North,Front view of the abbey ruins ; insignia of the National Trust.,54.12385,-1.58333,Yorkshire and the Humber,,,"black,silver",,
-mt_christ,,multiple,"Christ Church, Oxford",Christ Church ; Oxford,Main entrance and tower of the church.,51.74998,-1.25579,South East,,,"blue,gold",,
-mt_caernarvon,,multiple,Caernarvon Castle,watch tower and Queen’s Gate ; Caernarvon Castle ; founded 1283 A.D. ; Eagle Tower,Watchtower and gatehouse of the castle ; Welsh dragon ; Castle keep and Eagle tower.,53.13925,-4.27685,Wales,,,"blue,gold",,
-mt_blenheim,,multiple,Blenheim Palace,Blenheim Palace,Front facade of the palace.,51.84147,-1.36092,South East,,,"white,silver",,
-mt_baths,,multiple,Roman Baths,Medusa ; Minerva ; centurion ; the Roman baths ; Bath ; England,Bath town coat of arms ; grotesque of Medusa ; bust of Minerva ; illustration of Roman centurion in armor.,51.38124,-2.35961,South West,,,"blue,gold",,
-mt_bathabbey,,multiple,Bath Abbey,Bath Abbey ; Abbey Church of St. Peter and St. Paul ; West Front,Nave and quire of the abbey ; front facade of the abbey.,51.38152,-2.35869,South West,,,"green,gold",,
-mt_bath,,multiple,Bath,Abbey ; Roman baths ; Pulteney Bridge ; Royal Crescent ; Bath,Bath town coat of arms ; fully-colored view of the pool at the Roman baths ; fully-colored view of a bridge with three arches over the River Avon ; fully-colored view of the town-house facade of the Royal Crescent.,51.37881,-2.35938,South West,,,"green,gold",,
-mt_armouries,,multiple,Leeds Royal Armouries,Royal Armouries ; Leeds,No image.,53.79189,-1.53226,Yorkshire and the Humber,,,"red,gold",,
-bm_westminster,bm_westminster.tif,image/tif,Westminster Cathedral,,,,,,,,,,mt_westminster
-bm_wells,bm_wells.tif,image/tif,Wells Cathedral,,,,,,,,,,mt_wells
-bm_warwick,bm_warwick.tif,image/tif,Warwick Castle,,,,,,,,,,mt_warwick
-bm_war,bm_war.tif,image/tif,Imperial War Museum,,,,,,,,,,mt_war
-bm_vikings,bm_vikings.tif,image/tif,Jorvik,,,,,,,,,,mt_vikings
-bm_tower_2,bm_tower_2.tif,image/tif,Tower of London,,,,,,,,,,mt_tower_2
-bm_tower,bm_tower.tif,image/tif,Tower of London,,,,,,,,,,mt_tower
-bm_tintern,bm_tintern.tif,image/tif,Tintern Abbey,,,,,,,,,,mt_tintern
-bm_sarum,bm_sarum.tif,image/tif,Old Sarum,,,,,,,,,,mt_sarum
-bm_salisbury_2,bm_salisbury_2.tif,image/tif,Salisbury Cathedral,,,,,,,,,,mt_salisbury_2
-bm_salisbury,bm_salisbury.tif,image/tif,Salisbury,,,,,,,,,,mt_salisbury
-bm_museum,bm_museum.tif,image/tif,British Museum,,,,,,,,,,mt_museum
-bm_michael,bm_michael.tif,image/tif,St. Michael’s Mount,,,,,,,,,,mt_michael
-bm_lindisfarne,bm_lindisfarne.tif,image/tif,Lindisfarne Castle,,,,,,,,,,mt_lindisfarne
-bm_lincoln,bm_lincoln.tif,image/tif,Lincoln Cathedral,,,,,,,,,,mt_lincoln
-bm_housesteads,bm_housesteads.tif,image/tif,Housesteads Roman Fort,,,,,,,,,,mt_housesteads
-bm_greenwich,bm_greenwich.tif,image/tif,Greenwich,,,,,,,,,,mt_greenwich
-bm_gallery,bm_gallery.tif,image/tif,National Gallery,,,,,,,,,,mt_gallery
-bm_fountains_2,bm_fountains_2.tif,image/tif,Fountains Abbey,,,,,,,,,,mt_fountains_2
-bm_fountains,bm_fountains.tif,image/tif,Fountains Abbey,,,,,,,,,,mt_fountains
-bm_christ,bm_christ.tif,image/tif,"Christ Church, Oxford",,,,,,,,,,mt_christ
-bm_caernarvon,bm_caernarvon.tif,image/tif,Caernarvon Castle,,,,,,,,,,mt_caernarvon
-bm_blenheim,bm_blenheim.tif,image/tif,Blenheim Palace,,,,,,,,,,mt_blenheim
-bm_baths,bm_baths.tif,image/tif,Roman Baths,,,,,,,,,,mt_baths
-bm_bathabbey,bm_bathabbey.tif,image/tif,Bath Abbey,,,,,,,,,,mt_bathabbey
-bm_bath,bm_bath.tif,image/tif,Bath,,,,,,,,,,mt_bath
-bm_armouries,bm_armouries.tif,image/tif,Leeds Royal Armouries,,,,,,,,,,mt_armouries
+mt_westminster,bm_westminster.tiff,multiple,Westminster Cathedral,Westminster Cathedral,Christological monogram ; Tower and main entrance of the cathedral.,51.49585,-0.13943,London,,,"blue,gold",,
+mt_wells,bm_wells.tiff,multiple,Wells Cathedral,the Clock ; the Chapter House ; Wells Cathedral,View of the cathedral from a distance with ducks on a lake in the foreground ; the cathedral’s astrological clock ; fanned vaults of the chapterhouse building.,51.21048,-2.64346,South West,,,"blue,gold",,
+mt_warwick,bm_warwick.tiff,multiple,Warwick Castle,Caesar’s Tower ; the great hall ; great curtain wall ; Warwick Castle,"Caesar's Tower, with the castle wall in the background and greenery in the foreground ; Large hall with a ribbed ceiling, a large painting, and suits of armor in ogive stands ; The castle's curtain wall, with the gatehouse on the left and Guy's Tower on the right.",52.27831,-1.58843,West Midlands,,,"blue,gold",,
+mt_war,bm_war.tiff,multiple,Imperial War Museum,IWM ; Imperial War Museum,Top profile of three Spitfire fighter airplanes.,51.58819,-0.16068,London,,,"black,silver",,
+mt_vikings,bm_vikings.tiff,multiple,Jorvik,"door jams from Hyllestad Church, Norway ; carved doorway Opdal Church, Norway ; stylized warrior Valsgade, Sweden ; viking kingdom silver penny, York",Elaborate medieval illustration of vikings fighting and talking ; Medieval illustration of a king standing over a harp ; Illustration of an armored warrior with spear and shield ; Coin with a raven in the center and viking runes around the edge.,53.95743,-1.0803,Yorkshire and the Humber,,,"black,silver",,
+mt_tower_2,bm_tower_2.tiff,multiple,Tower of London,sigillum turris londini ; HM Royal Palace and Fortress of the Tower of London,Stylized illustration of the Tower.,51.69236,-0.15834,London,,,"blue,gold",,
+mt_tower,bm_tower.tiff,multiple,Tower of London,historic royal palaces ; Tower of London,Fully-colored Yeoman of the Guard in uniform.,51.69236,-0.15834,London,,,"black,gold",,
+mt_tintern,bm_tintern.tiff,multiple,Tintern Abbey,Abaty Tyndyrn ; Tintern Abbey ; Cadw ; www.cadw.wales.gov.uk,Three-quarter view of the abbey ruins.,51.69698,-2.67707,Wales,,,"black,gold",,
+mt_sarum,bm_sarum.tiff,multiple,Old Sarum,Bishop Joceline 1184 ; Old Sarum,Medieval illustration of Bishop Joceline.,51.10162,-1.78475,South West,,,"red,gold",,
+mt_salisbury_2,bm_salisbury_2.tiff,multiple,Salisbury Cathedral,Salisbury Cathedral,Portrait of Madonna and child ; View of the front facade and tower of the cathedral ; Stained glass window portraying Madonna and child.,51.06514,-1.7973,South West,,,"blue,silver",,
+mt_salisbury,bm_salisbury.tiff,multiple,Salisbury,the Cathedral ; the Poultry Cross ; High Street Gate ; Salisbury ; Wiltshire,Distant view of Salisbury Cathedral and tower ; elevated market cross structure ; large medieval gatehouse across a street.,51.06911,-1.79461,South West,,,"red,gold",,
+mt_museum,bm_museum.tiff,multiple,British Museum,the British Museum,Front facade of the museum.,51.51956,-0.12695,London,,,"blue,gold",,
+mt_michael,bm_michael.tiff,multiple,St. Michael’s Mount,St. Michael’s Mount ; the National Trust ; Cornwall,"Small round island with a castle on top, smaller buildings at the foot of the hill nearer the viewer, and a causeway extending into the ocean ; insignia of the National Trust.",50.11741,-5.47673,South West,,,"blue,gold",,
+mt_lindisfarne,bm_lindisfarne.tiff,multiple,Lindisfarne Castle,Lindisfarne Castle ; Northumberland ; the Ship Room ; the National Trust,"Insignia of the National Trust ; castle on top of a steep hill ; barrel-vaulted room with tables, chairs, and a fireplace.",55.66912,-1.78479,North East,,,"blue,gold",,
+mt_lincoln,bm_lincoln.tiff,multiple,Lincoln Cathedral,the Chapter-House ; Lincoln Cathedral,Front facade of the cathedral ; Chapterhouse building ; rear view of the cathedral.,53.23436,-0.53594,East Midlands,,,"blue,gold",,
+mt_housesteads,bm_housesteads.tiff,multiple,Housesteads Roman Fort,Emperor Hadrian ; Housesteads Roman Fort,Bust of the Roman Emperor Hadrian.,55.01343,-2.33031,North East,,,"green,gold",,
+mt_greenwich,bm_greenwich.tiff,multiple,Greenwich,Greenwich ; Royal Naval College ; Flamsteed House ; the Queen’s House,"Circled view of the Cutty Sark, a three-masted sailing ship ; front facade of the Royal Naval College ; view of the observatory of John Flamsteed ; front facade of the Queen’s house.",51.49316,0.01003,London,,,"blue,gold",,
+mt_gallery,bm_gallery.tiff,multiple,National Gallery,the National Gallery ; London,Front facade of the National Gallery.,51.50911,-0.12827,London,,,"blue,gold",,
+mt_fountains_2,bm_fountains_2.tiff,multiple,Fountains Abbey,monogram of Marmaduke Huby Abbot of Fountains Abbey (1495-1526) ; Fountains Abbey,Personal monogram of Abbot Marmaduke Huby.,54.12385,-1.58333,Yorkshire and the Humber,,,"black,gold",,
+mt_fountains,bm_fountains.tiff,multiple,Fountains Abbey,Fountains Abbey ; Wonder of the North,Front view of the abbey ruins ; insignia of the National Trust.,54.12385,-1.58333,Yorkshire and the Humber,,,"black,silver",,
+mt_christ,bm_christ.tiff,multiple,"Christ Church, Oxford",Christ Church ; Oxford,Main entrance and tower of the church.,51.74998,-1.25579,South East,,,"blue,gold",,
+mt_caernarvon,bm_caernarvon.tiff,multiple,Caernarvon Castle,watch tower and Queen’s Gate ; Caernarvon Castle ; founded 1283 A.D. ; Eagle Tower,Watchtower and gatehouse of the castle ; Welsh dragon ; Castle keep and Eagle tower.,53.13925,-4.27685,Wales,,,"blue,gold",,
+mt_blenheim,bm_blenheim.tiff,multiple,Blenheim Palace,Blenheim Palace,Front facade of the palace.,51.84147,-1.36092,South East,,,"white,silver",,
+mt_baths,bm_baths.tiff,multiple,Roman Baths,Medusa ; Minerva ; centurion ; the Roman baths ; Bath ; England,Bath town coat of arms ; grotesque of Medusa ; bust of Minerva ; illustration of Roman centurion in armor.,51.38124,-2.35961,South West,,,"blue,gold",,
+mt_bathabbey,bm_bathabbey.tiff,multiple,Bath Abbey,Bath Abbey ; Abbey Church of St. Peter and St. Paul ; West Front,Nave and quire of the abbey ; front facade of the abbey.,51.38152,-2.35869,South West,,,"green,gold",,
+mt_bath,bm_bath.tiff,multiple,Bath,Abbey ; Roman baths ; Pulteney Bridge ; Royal Crescent ; Bath,Bath town coat of arms ; fully-colored view of the pool at the Roman baths ; fully-colored view of a bridge with three arches over the River Avon ; fully-colored view of the town-house facade of the Royal Crescent.,51.37881,-2.35938,South West,,,"green,gold",,
+mt_armouries,bm_armouries.tiff,multiple,Leeds Royal Armouries,Royal Armouries ; Leeds,No image.,53.79189,-1.53226,Yorkshire and the Humber,,,"red,gold",,
+bm_westminster,bm_westminster.tiff,image/tiff,Westminster Cathedral,,,,,,,,,,mt_westminster
+bm_wells,bm_wells.tiff,image/tiff,Wells Cathedral,,,,,,,,,,mt_wells
+bm_warwick,bm_warwick.tiff,image/tiff,Warwick Castle,,,,,,,,,,mt_warwick
+bm_war,bm_war.tiff,image/tiff,Imperial War Museum,,,,,,,,,,mt_war
+bm_vikings,bm_vikings.tiff,image/tiff,Jorvik,,,,,,,,,,mt_vikings
+bm_tower_2,bm_tower_2.tiff,image/tiff,Tower of London,,,,,,,,,,mt_tower_2
+bm_tower,bm_tower.tiff,image/tiff,Tower of London,,,,,,,,,,mt_tower
+bm_tintern,bm_tintern.tiff,image/tiff,Tintern Abbey,,,,,,,,,,mt_tintern
+bm_sarum,bm_sarum.tiff,image/tiff,Old Sarum,,,,,,,,,,mt_sarum
+bm_salisbury_2,bm_salisbury_2.tiff,image/tiff,Salisbury Cathedral,,,,,,,,,,mt_salisbury_2
+bm_salisbury,bm_salisbury.tiff,image/tiff,Salisbury,,,,,,,,,,mt_salisbury
+bm_museum,bm_museum.tiff,image/tiff,British Museum,,,,,,,,,,mt_museum
+bm_michael,bm_michael.tiff,image/tiff,St. Michael’s Mount,,,,,,,,,,mt_michael
+bm_lindisfarne,bm_lindisfarne.tiff,image/tiff,Lindisfarne Castle,,,,,,,,,,mt_lindisfarne
+bm_lincoln,bm_lincoln.tiff,image/tiff,Lincoln Cathedral,,,,,,,,,,mt_lincoln
+bm_housesteads,bm_housesteads.tiff,image/tiff,Housesteads Roman Fort,,,,,,,,,,mt_housesteads
+bm_greenwich,bm_greenwich.tiff,image/tiff,Greenwich,,,,,,,,,,mt_greenwich
+bm_gallery,bm_gallery.tiff,image/tiff,National Gallery,,,,,,,,,,mt_gallery
+bm_fountains_2,bm_fountains_2.tiff,image/tiff,Fountains Abbey,,,,,,,,,,mt_fountains_2
+bm_fountains,bm_fountains.tiff,image/tiff,Fountains Abbey,,,,,,,,,,mt_fountains
+bm_christ,bm_christ.tiff,image/tiff,"Christ Church, Oxford",,,,,,,,,,mt_christ
+bm_caernarvon,bm_caernarvon.tiff,image/tiff,Caernarvon Castle,,,,,,,,,,mt_caernarvon
+bm_blenheim,bm_blenheim.tiff,image/tiff,Blenheim Palace,,,,,,,,,,mt_blenheim
+bm_baths,bm_baths.tiff,image/tiff,Roman Baths,,,,,,,,,,mt_baths
+bm_bathabbey,bm_bathabbey.tiff,image/tiff,Bath Abbey,,,,,,,,,,mt_bathabbey
+bm_bath,bm_bath.tiff,image/tiff,Bath,,,,,,,,,,mt_bath
+bm_armouries,bm_armouries.tiff,image/tiff,Leeds Royal Armouries,,,,,,,,,,mt_armouries
