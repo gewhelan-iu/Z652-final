@@ -26,30 +26,30 @@ mt_baths,,multiple,Roman Baths,Medusa ; Minerva ; centurion ; the Roman baths ; 
 mt_bathabbey,,multiple,Bath Abbey,Bath Abbey ; Abbey Church of St. Peter and St. Paul ; West Front,Nave and quire of the abbey ; front facade of the abbey.,51.38152,-2.35869,South West,,,"green,gold",,
 mt_bath,,multiple,Bath,Abbey ; Roman baths ; Pulteney Bridge ; Royal Crescent ; Bath,Bath town coat of arms ; fully-colored view of the pool at the Roman baths ; fully-colored view of a bridge with three arches over the River Avon ; fully-colored view of the town-house facade of the Royal Crescent.,51.37881,-2.35938,South West,,,"green,gold",,
 mt_armouries,,multiple,Leeds Royal Armouries,Royal Armouries ; Leeds,No image.,53.79189,-1.53226,Yorkshire and the Humber,,,"red,gold",,
-bm_westminster,bm_westminster.tif,image/tif,Westminster Cathedral,,,,,,,,,,mt_westminster
-bm_wells,bm_wells.tif,image/tif,Wells Cathedral,,,,,,,,,,mt_wells
-bm_warwick,bm_warwick.tif,image/tif,Warwick Castle,,,,,,,,,,mt_warwick
-bm_war,bm_war.tif,image/tif,Imperial War Museum,,,,,,,,,,mt_war
-bm_vikings,bm_vikings.tif,image/tif,Jorvik,,,,,,,,,,mt_vikings
-bm_tower_2,bm_tower_2.tif,image/tif,Tower of London,,,,,,,,,,mt_tower_2
-bm_tower,bm_tower.tif,image/tif,Tower of London,,,,,,,,,,mt_tower
-bm_tintern,bm_tintern.tif,image/tif,Tintern Abbey,,,,,,,,,,mt_tintern
-bm_sarum,bm_sarum.tif,image/tif,Old Sarum,,,,,,,,,,mt_sarum
-bm_salisbury_2,bm_salisbury_2.tif,image/tif,Salisbury Cathedral,,,,,,,,,,mt_salisbury_2
-bm_salisbury,bm_salisbury.tif,image/tif,Salisbury,,,,,,,,,,mt_salisbury
-bm_museum,bm_museum.tif,image/tif,British Museum,,,,,,,,,,mt_museum
-bm_michael,bm_michael.tif,image/tif,St. Michael’s Mount,,,,,,,,,,mt_michael
-bm_lindisfarne,bm_lindisfarne.tif,image/tif,Lindisfarne Castle,,,,,,,,,,mt_lindisfarne
-bm_lincoln,bm_lincoln.tif,image/tif,Lincoln Cathedral,,,,,,,,,,mt_lincoln
-bm_housesteads,bm_housesteads.tif,image/tif,Housesteads Roman Fort,,,,,,,,,,mt_housesteads
-bm_greenwich,bm_greenwich.tif,image/tif,Greenwich,,,,,,,,,,mt_greenwich
-bm_gallery,bm_gallery.tif,image/tif,National Gallery,,,,,,,,,,mt_gallery
-bm_fountains_2,bm_fountains_2.tif,image/tif,Fountains Abbey,,,,,,,,,,mt_fountains_2
-bm_fountains,bm_fountains.tif,image/tif,Fountains Abbey,,,,,,,,,,mt_fountains
-bm_christ,bm_christ.tif,image/tif,"Christ Church, Oxford",,,,,,,,,,mt_christ
-bm_caernarvon,bm_caernarvon.tif,image/tif,Caernarvon Castle,,,,,,,,,,mt_caernarvon
-bm_blenheim,bm_blenheim.tif,image/tif,Blenheim Palace,,,,,,,,,,mt_blenheim
-bm_baths,bm_baths.tif,image/tif,Roman Baths,,,,,,,,,,mt_baths
-bm_bathabbey,bm_bathabbey.tif,image/tif,Bath Abbey,,,,,,,,,,mt_bathabbey
-bm_bath,bm_bath.tif,image/tif,Bath,,,,,,,,,,mt_bath
-bm_armouries,bm_armouries.tif,image/tif,Leeds Royal Armouries,,,,,,,,,,mt_armouries
+bm_westminster,bm_westminster.png,image/png,Westminster Cathedral,,,,,,,,,,mt_westminster
+bm_wells,bm_wells.png,image/png,Wells Cathedral,,,,,,,,,,mt_wells
+bm_warwick,bm_warwick.png,image/png,Warwick Castle,,,,,,,,,,mt_warwick
+bm_war,bm_war.png,image/png,Imperial War Museum,,,,,,,,,,mt_war
+bm_vikings,bm_vikings.png,image/png,Jorvik,,,,,,,,,,mt_vikings
+bm_tower_2,bm_tower_2.png,image/png,Tower of London,,,,,,,,,,mt_tower_2
+bm_tower,bm_tower.png,image/png,Tower of London,,,,,,,,,,mt_tower
+bm_tintern,bm_tintern.png,image/png,Tintern Abbey,,,,,,,,,,mt_tintern
+bm_sarum,bm_sarum.png,image/png,Old Sarum,,,,,,,,,,mt_sarum
+bm_salisbury_2,bm_salisbury_2.png,image/png,Salisbury Cathedral,,,,,,,,,,mt_salisbury_2
+bm_salisbury,bm_salisbury.png,image/png,Salisbury,,,,,,,,,,mt_salisbury
+bm_museum,bm_museum.png,image/png,British Museum,,,,,,,,,,mt_museum
+bm_michael,bm_michael.png,image/png,St. Michael’s Mount,,,,,,,,,,mt_michael
+bm_lindisfarne,bm_lindisfarne.png,image/png,Lindisfarne Castle,,,,,,,,,,mt_lindisfarne
+bm_lincoln,bm_lincoln.png,image/png,Lincoln Cathedral,,,,,,,,,,mt_lincoln
+bm_housesteads,bm_housesteads.png,image/png,Housesteads Roman Fort,,,,,,,,,,mt_housesteads
+bm_greenwich,bm_greenwich.png,image/png,Greenwich,,,,,,,,,,mt_greenwich
+bm_gallery,bm_gallery.png,image/png,National Gallery,,,,,,,,,,mt_gallery
+bm_fountains_2,bm_fountains_2.png,image/png,Fountains Abbey,,,,,,,,,,mt_fountains_2
+bm_fountains,bm_fountains.png,image/png,Fountains Abbey,,,,,,,,,,mt_fountains
+bm_christ,bm_christ.png,image/png,"Christ Church, Oxford",,,,,,,,,,mt_christ
+bm_caernarvon,bm_caernarvon.png,image/png,Caernarvon Castle,,,,,,,,,,mt_caernarvon
+bm_blenheim,bm_blenheim.png,image/png,Blenheim Palace,,,,,,,,,,mt_blenheim
+bm_baths,bm_baths.png,image/png,Roman Baths,,,,,,,,,,mt_baths
+bm_bathabbey,bm_bathabbey.png,image/png,Bath Abbey,,,,,,,,,,mt_bathabbey
+bm_bath,bm_bath.png,image/png,Bath,,,,,,,,,,mt_bath
+bm_armouries,bm_armouries.png,image/png,Leeds Royal Armouries,,,,,,,,,,mt_armouries
