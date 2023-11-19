@@ -17,7 +17,8 @@ The primary purpose of this digital collection is to catalog the bookmarks that 
 The collection will be searchable by title, text, location, and date, and sortable by name and date. The expected use of this collection will be by people who are familiar with my family's travels, British tourist sites, or both, and as such these are the fields which are most likely to be used for searching. Furthermore, the remainder of the fields have data which is either not sufficiently controlled or is numerical and therefore less intuitive for the average user (excepting year). Filtering by date, primary color, location, the presence of images on the bookmark, and the presence of supporting images will also be available. Some of these filters are of further assistance to searchers, while others will serve as a rudimentary way of analyzing the collection as a whole, by, for example, displaying the relative frequency of primary colors.  
 Below are two tables which provide guidance on the creation of item metadata for this creation. The first table is for main entries, which will carry all of the textual metadata about each bookmark and site. The second table is for child items, which will be the images themselves. These child items will have minimal descriptive metadata of their own, because they will be presented alongside the main entry metadata. 
 ## Metadata
-### For main entries:  
+### For main entries: 
+ 
 |Field|Description|Obligation|Cardinality|DC Equivalency|Example|
 |---|---|---|---|---|---|
 |objectid|Unique identifier of object. Use distinctive word or words from title, with prefix `mt_` for main entries.|Required|1|IdHientifier|mt_warwick|
@@ -33,7 +34,9 @@ Below are two tables which provide guidance on the creation of item metadata for
 |date|Year of acquisition of bookmark.|Optional|1|Date|1994|
 |color|Color of leather and illustrations. Format as `<primary>,<secondary>`.|Required|2|Description|blue,gold|
 |dimensions|Length and width of bookmark, in centimeters, to one decimal place. Format as `<length>cmx<width>cm`.|Required|1|Description|22.9cmx4.1cm|
+
 ### For child items:
+
 |Field|Description|Obligation|Cardinality|DC Equivalency|Example|
 |---|---|---|---|---|---|
 |objectid|Unique identifier of object. Use distinctive word or words from title, with prefix `bm_` for bookmark entries and no prefix for accompanying image entries.|Required|1|Identifier|bm_warwick|
