@@ -1,8 +1,10 @@
 field,display_name,browse_link,external_link
 title,Title,,
-date,Date Created,,
+date,Date of Acquisition,,
 description,Description,,
 text,Text,,
 location,Location,,
 latitude,Latitude,,
 longitude,Longitude,,
+color,Color,,
+dimensions,Dimensions,,
